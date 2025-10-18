@@ -1,0 +1,26 @@
+{
+  "name": "software-dev-course-unit-testing",
+  "version": "1.0.0",
+  "description": "This is the README.md file! I, as the presenter, will fill it with content!",
+  "main": "script.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelLugo313/software-dev-course-unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelLugo313/software-dev-course-unit-testing/issues"
+  },
+  "homepage": "https://github.com/MichaelLugo313/software-dev-course-unit-testing#readme",
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
+}
